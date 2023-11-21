@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/ShapeFactory.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/FactoryProducer.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/Abstract_factory.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/AbstractFactory.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/RoundedRectangle.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/RoundedShapeFactory.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/RoundedSquare.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/Shape.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/Square.java</file>
+            <file>file:/Z:/Abstract_factory/src/abstract_factory/Rectangle.java</file>
+        </group>
+    </open-files>
+</project-private>
